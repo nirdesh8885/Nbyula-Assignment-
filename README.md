@@ -1,5 +1,6 @@
 # Nbyula-Assignment-
 What are our expectations?
+
 Part 1: Test planning  
 
 We would like you to make a small document describing the test planning for the test activities
@@ -20,8 +21,12 @@ interesting flows using the following website.
 1. https://nbl.one - we have created a sandboxed environment of the production website,
 please only use this website for running your tests.
 Some challenging scenarios to automate if you need to start somewhere:
+
 ● Access https://nbl.one, validate if there is at least 1 quest.
+
 ● Access https://nby.la/rdJuXp and try booking the skylift
+
 ● Access https://nbl.one/listings, then scrape all the cards for title, price and link
 associated to each card.
+
 ● Any other interesting flow you find in the website
