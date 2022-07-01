@@ -1,0 +1,45 @@
+Create a Manual Test Case
+I am taking a Manual Test Case, that is Generic Test Case,
+“Verify skylifts Link existence in Nbyula Home Page”
+Sample Test Case Template (Manual Test Case):
+
+i) Test Case Id:
+ii) Test Case Title:
+iii) Precondition:
+iv) Test Steps:
+v) Test Data:
+vi) Expected Result:
+vii) Post-condition:
+viii) Actual Results:
+ix) Status:
+x) Comments:
+
+Test Case Document…
+i) Test Case Id: Test01
+ii) Test Case Title: Verify “Skylifts" links availablity in Nbyula home page
+iii) Precondition: NA
+iv) Test Case Step/s:
+i) Launch the Browser and Navigate to https://nbl.one/
+v) Test Data: NA
+vi) Expected Result: Skylifts link available in Nbyula Home Page               
+vii) Post-Condition: Nbyula Home Page with skylifts link and other links.
+viii) Actual Results: (* During Test Case Execution)
+ix) Status: (* After Test Case Execution)
+x) Comments:
+
+Automating Manual Test Cases
+
+Writing Software Test Cases
+2) Automating the Manual Test Case using Selenium WebDriver
+
+> Using Element Locators and WebDriver methods we create Test Steps, and use Java programming Statements to enhance the Test case.
+
+Steps:
+
+i) First Create Instantiate Browser Driver (Mozilla Firefox or chrome or IE etc..)
+
+ii) Create the Browser driver
+
+iii) Generate the Test Steps using Element Locators and WebDriver Commands.
+
+iv) Enhance the Test Case using Java programming Statements
